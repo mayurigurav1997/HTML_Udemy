@@ -18,6 +18,7 @@ Default:1
 -Accents:
 -Greys:
 #555
+#333
 
 ---05 SHADOWS
 
@@ -44,11 +45,23 @@ body {
   font-weight: 400;
   color: #555;
 }
-.test {
-  /* width: 1000px; */
-  background-color: red;
-  padding: 4rem;
-  max-width: 50rem;
-  color: #fff;
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 130rem;
+  margin: 0 auto;
+  background-color: violet;
+}
+.heading-primary {
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.05;
+  color: #333;
+}
+.hero-descrition {
   font-size: 2rem;
+  line-height: 1.5;
+}
+.hero-img {
+  width: 100%;
 }
