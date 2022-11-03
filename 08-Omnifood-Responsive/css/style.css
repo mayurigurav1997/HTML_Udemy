@@ -25,7 +25,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 4.8rem;
 }
 
 .main-nav-link:link,
@@ -66,6 +66,7 @@
 }
 
 .hero {
+  background-color: #cf711f;
   max-width: 130rem;
   margin: 0 auto;
   padding: 0 3.2rem;
