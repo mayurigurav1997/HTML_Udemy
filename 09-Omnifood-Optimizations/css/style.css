@@ -86,7 +86,7 @@
 }
 @media (max-width: 1200px) {
   .section-hero {
-    background-color: orangered;
+    /* background-color: orangered; */
   }
 }
 @media (max-width: 600px) {

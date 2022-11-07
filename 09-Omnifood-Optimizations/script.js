@@ -3,6 +3,7 @@
 const yearEl = document.querySelector(".year");
 yearEl.textContent = new Date().getFullYear();
 
+// Set Navigation
 const btnNavE1 = document.querySelector(".btn-mobile-nav");
 const headerE1 = document.querySelector(".header");
 
