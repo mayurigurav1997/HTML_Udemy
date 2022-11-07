@@ -109,7 +109,7 @@
 @media (max-width: 600px) {
   .section-hero {
     border: 20px dashed white;
-    background-color: blue;
+    /* background-color: blue; */
   }
 }
 
